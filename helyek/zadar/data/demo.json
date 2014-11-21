@@ -1,0 +1,203 @@
+{
+    "id": "pano",
+    
+    "lat": "44.115957",
+    "lng": "15.22138700000005",
+    "heading": "-41.4698344901228",
+    "pitch": "3",
+    
+    "sounds": [
+        {
+            "name": "orgona1",
+            "lat": "44.11714",
+            "lng": "15.21990",
+            "src": [
+                "audio/orgona1.mp3"
+            ],
+            "db": "50",
+            "pause": "0"
+        },
+        {
+            "name": "orgona3",
+            "lat": "44.116900",
+            "lng": "15.22015",
+            "src": [
+                "audio/orgona3.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "orgona_ember1",
+            "lat": "44.11669441102788",
+            "lng": "15.220380116162119",
+            "src": [
+                "audio/orgember.mp3"
+            ],
+            "db": "70",
+            "pause": "0"
+        },
+        {
+            "name": "orgona_ember2",
+            "lat": "44.11702",
+            "lng": "15.22009300000002",
+            "src": [
+                "audio/orgember.mp3"
+            ],
+            "db": "50",
+            "pause": "0"
+        },
+        {
+            "name": "orgona_ember3",
+            "lat": "44.117306",
+            "lng": "15.219837999999982",
+            "src": [
+                "audio/orgember.mp3"
+            ],
+            "db": "50",
+            "pause": "0"
+        },
+        {
+            "name": "kaboca1",
+            "lat": "44.11693887880111",
+            "lng": "15.220599569803653",
+            "src": [
+                "audio/kaboca.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "kaboca2",
+            "lat": "44.11742266683765",
+            "lng": "15.22048065080935",
+            "src": [
+                "audio/kaboca.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "kaboca3",
+            "lat": "44.11659101235458",
+            "lng": "15.221020580994264",
+            "src": [
+                "audio/kaboca.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "tenger1",
+            "lat": "44.1169",
+            "lng": "15.219900",
+            "src": [
+                "audio/tenger1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "tenger2",
+            "lat": "44.1166",
+            "lng": "15.219900",
+            "src": [
+                "audio/tenger1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "tenger3",
+            "lat": "44.11593554711344",
+            "lng": "15.220483485255272",
+            "src": [
+                "audio/tenger1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "tenger4",
+            "lat": "44.11619904076159",
+            "lng": "15.219932956942444",
+            "src": [
+                "audio/tenger1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "siraly1",
+            "lat": "44.117655",
+            "lng": "15.219560999999999",
+            "src": [
+                "audio/siraly.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "siraly2",
+            "lat": "44.117306",
+            "lng": "15.21970",
+            "src": [
+                "audio/siraly.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "siraly3",
+            "lat": "44.116254742426264",
+            "lng": "15.220805465390185",
+            "src": [
+                "audio/siraly.mp3"
+            ],
+            "db": "30",
+            "pause": "0"
+        },
+        {
+            "name": "emberek1",
+            "lat": "44.117449",
+            "lng": "15.219939000000068",
+            "src": [
+                "audio/emberek1.mp3"
+            ],
+            "db": "40",
+            "pause": "0"
+        },
+        {
+            "name": "emberek2",
+            "lat": "44.1169",
+            "lng": "15.22010",
+            "src": [
+                "audio/emberek1.mp3"
+            ],
+            "db": "20",
+            "pause": "0"
+        },
+        {
+            "name": "mennek",
+            "lat": "44.11615678951053",
+            "lng": "15.221098850306362",
+            "src": [
+                "audio/mennek.mp3"
+            ],
+            "db": "20",
+            "pause": "0"
+        },
+        {
+            "name": "mennek2",
+            "lat": "44.11640073377315",
+            "lng": "15.220748556673925",
+            "src": [
+                "audio/mennek.mp3"
+            ],
+            "db": "20",
+            "pause": "0"
+        }
+
+
+    ]
+}

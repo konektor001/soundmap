@@ -1,0 +1,162 @@
+{
+    "id": "pano",
+    
+    "lat": "-54.008293",
+    "lng": "-37.693133999999986",
+    "heading": "-341.7672606294125",
+    "pitch": "9.185867938639076",
+    
+    "sounds": [
+        {
+            "name": "sokpingvin0",
+            "lat": "-54.00810335797271",
+            "lng": "-37.6930941243412",
+            "src": [
+                "audio/magellanic-penguin1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "theafricanpenguin1",
+            "lat": "-54.00804083830435",
+            "lng": "-37.693285771356614",
+            "src": [
+                "audio/theafricanpenguin1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "sokpingvin1",
+            "lat": "-54.00789673717476",
+            "lng": "-37.69272785960362",
+            "src": [
+                "audio/CREATED_AMBIENCE_STONE_PENGUINS_1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "sokpingvin2",
+            "lat": "-54.00782448487116",
+            "lng": "-37.69317801004206",
+            "src": [
+                "audio/CREATED_AMBIENCE_STONE_PENGUINS_3.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "sokpingvin3",
+            "lat": "-54.00833834593791",
+            "lng": "-37.692538893188726",
+            "src": [
+                "audio/CREATED_AMBIENCE_STONE_PENGUINS_2.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "pingvin1",
+            "lat": "-54.00834815365813",
+            "lng": "-37.69313004913539",
+            "src": [
+                "audio/kicsoport.mp3"
+            ],
+            "db": "5",
+            "pause": "10000"
+        },
+        {
+            "name": "tenger01",
+            "lat": "-54.00838229934012",
+            "lng": "-37.6924614015868",
+            "src": [
+                "audio/hullam1.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "tenger02",
+            "lat": "-54.008181391485735",
+            "lng": "-37.69370324179761",
+            "src": [
+                "audio/tenger2.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "foka1",
+            "lat": "-54.008440368118045",
+            "lng": "-37.69316692338464",
+            "src": [
+                "audio/foka1.mp3"
+            ],
+            "db": "10",
+            "pause": "0"
+        },
+        {
+            "name": "foka2",
+            "lat": "-54.00848200928933",
+            "lng": "-37.6933003184177",
+            "src": [
+                "audio/foka2.mp3"
+            ],
+            "db": "20",
+            "pause": "0"
+        },
+        {
+            "name": "foka3",
+            "lat": "-54.00865537192323",
+            "lng": "-37.69336019367972",
+            "src": [
+                "audio/foka3.mp3"
+            ],
+            "db": "70",
+            "pause": "0"
+        },
+        {
+            "name": "foka4",
+            "lat": "-54.00865476218788",
+            "lng": "-37.693532760709786",
+            "src": [
+                "audio/foka4.mp3"
+            ],
+            "db": "70",
+            "pause": "0"
+        },
+        {
+            "name": "tenger5",
+            "lat": "-54.0086952566587",
+            "lng": "-37.6930066240223",
+            "src": [
+                "audio/hullam2.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "fokatavolL",
+            "lat": "-54.008891586010705",
+            "lng": "-37.69353013563875",
+            "src": [
+                "audio/fokatavoll.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        },
+        {
+            "name": "fokatavolR",
+            "lat": "-54.00884351820338",
+            "lng": "-37.69373057855455",
+            "src": [
+                "audio/fokatavolr.mp3"
+            ],
+            "db": "100",
+            "pause": "0"
+        }
+
+    ]
+}
