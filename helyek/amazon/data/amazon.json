@@ -8,11 +8,11 @@
     
     "sounds": [
         {
-            "name": "buffyheadedmarmo",
+            "name": "sound_c",
             "lat": "-2.945032",
             "lng": "-60.67615",
             "src": [
-                "audio/buffyheadedmarmo.mp3"
+                "audio/sound_c.mp3"
             ],
             "db": "40",
             "pause": "100"
@@ -22,127 +22,127 @@
             "lat": "-2.9451232349220176",
             "lng": "-60.67626918030726",
             "src": [
-                "audio/agileribbon.mp3"
+                "audio/sound_a.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily1L",
+            "name": "sound_d1L",
             "lat": "-2.9452941597740976",
             "lng": "-60.67623739479785",
             "src": [
-                "audio/cicadidaefamily.mp3"
+                "audio/sound_d.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily1R",
+            "name": "sound_d1R",
             "lat": "-2.9452817903546458",
             "lng": "-60.67608833254985",
             "src": [
-                "audio/cicadidaefamily_pitch.mp3"
+                "audio/sound_d_pitch.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily2L",
+            "name": "sound_d2L",
             "lat": "-2.9449807421642347",
             "lng": "-60.67636052345466",
             "src": [
-                "audio/cicadidaefamily.mp3"
+                "audio/sound_d.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily2R",
+            "name": "sound_d2R",
             "lat": "-2.944917481742319",
             "lng": "-60.67620274363037",
             "src": [
-                "audio/cicadidaefamily_pitch.mp3"
+                "audio/sound_d_pitch.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cricketspcustr",
+            "name": "sound_e",
             "lat": "-2.9452624444186273",
             "lng": "-60.67625596941781",
             "src": [
-                "audio/cricketspcustr.mp3"
+                "audio/sound_e.mp3"
             ],
             "db": "40",
             "pause": "5000"
         },
         {
-            "name": "bonnetmacaque",
+            "name": "sound_b",
             "lat": "-2.944908",
             "lng": "-60.67629099999999",
             "src": [
-                "audio/bonnetmacaque.mp3"
+                "audio/sound_b.mp3"
             ],
             "db": "80",
             "pause": "1000"
         },
         {
-            "name": "fieldcricketsp",
+            "name": "sound_f",
             "lat": "-2.945065668872557",
             "lng": "-60.67632357040361",
             "src": [
-                "audio/fieldcricketsp.mp3"
+                "audio/sound_f.mp3"
             ],
             "db": "20",
             "pause": "0"
         },
         {
-            "name": "goldenbamboolemu",
+            "name": "sound_g",
             "lat": "-2.9451895016984073",
             "lng": "-60.67628243212283",
             "src": [
-                "audio/goldenbamboolemu.mp3"
+                "audio/sound_g.mp3"
             ],
             "db": "40",
             "pause": "5000"
         },
         {
-            "name": "hyraxspmcuto",
+            "name": "sound_h",
             "lat": "-2.945071",
             "lng": "-60.676237000000015",
             "src": [
-                "audio/hyraxspmcuto.mp3"
+                "audio/sound_h.mp3"
             ],
             "db": "50",
             "pause": "300"
         },
         {
-            "name": "pygmychimpanzee",
+            "name": "sound_i",
             "lat": "-2.9449064753474046",
             "lng": "-60.67615121552302",
             "src": [
-                "audio/pygmychimpanzee.mp3"
+                "audio/sound_i.mp3"
             ],
             "db": "100",
             "pause": "300"
         },
         {
-            "name": "wildgaurmcusou",
+            "name": "sound_j",
             "lat": "-2.945019935777135",
             "lng": "-60.67630755799041",
             "src": [
-                "audio/wildgaurmcusou.mp3"
+                "audio/sound_j.mp3"
             ],
             "db": "40",
             "pause": "0"
         },
         {
-            "name": "buffyheadedmarmo_2",
+            "name": "sound_c_2",
             "lat": "-2.9448017572647758",
             "lng": "-60.67648340659673",
             "src": [
-                "audio/buffyheadedmarmo.mp3"
+                "audio/sound_c.mp3"
             ],
             "db": "60",
             "pause": "0"
@@ -152,77 +152,77 @@
             "lat": "-2.94476046806566",
             "lng": "-60.67629085565983",
             "src": [
-                "audio/agileribbon.mp3"
+                "audio/sound_a.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "pygmychimpanzee_2",
+            "name": "sound_i_2",
             "lat": "-2.944687552326251",
             "lng": "-60.67635750968179",
             "src": [
-                "audio/pygmychimpanzee.mp3"
+                "audio/sound_i.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "hyraxspmcuto_2",
+            "name": "sound_h_2",
             "lat": "-2.94472430334623",
             "lng": "-60.6763084736188",
             "src": [
-                "audio/hyraxspmcuto.mp3"
+                "audio/sound_h.mp3"
             ],
             "db": "100",
             "pause": "0"
         },
         {
-            "name": "cricketspcustr_2",
+            "name": "sound_e_2",
             "lat": "-2.9446328529374743",
             "lng": "-60.67644674623216",
             "src": [
-                "audio/cricketspcustr.mp3"
+                "audio/sound_e.mp3"
             ],
             "db": "60",
             "pause": "0"
         },
         {
-            "name": "goldenbamboolemu_2",
+            "name": "sound_g_2",
             "lat": "-2.9445827367550503",
             "lng": "-60.67639612190055",
             "src": [
-                "audio/goldenbamboolemu.mp3"
+                "audio/sound_g.mp3"
             ],
             "db": "60",
             "pause": "0"
         },
         {
-            "name": "fieldcricketsp_2",
+            "name": "sound_f_2",
             "lat": "-2.944582450563363",
             "lng": "-60.67632216821778",
             "src": [
-                "audio/fieldcricketsp.mp3"
+                "audio/sound_f.mp3"
             ],
             "db": "60",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily_pitch_2",
+            "name": "sound_d_pitch_2",
             "lat": "-2.9446489311734685",
             "lng": "-60.67628945320109",
             "src": [
-                "audio/cicadidaefamily_pitch.mp3"
+                "audio/sound_d_pitch.mp3"
             ],
             "db": "75",
             "pause": "0"
         },
         {
-            "name": "cicadidaefamily_2",
+            "name": "sound_d_2",
             "lat": "-2.944698666808367",
             "lng": "-60.67653754567061",
             "src": [
-                "audio/cicadidaefamily.mp3"
+                "audio/sound_d.mp3"
             ],
             "db": "75",
             "pause": "0"
