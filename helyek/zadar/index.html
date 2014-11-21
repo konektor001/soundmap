@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Zadar Soundmap</title>
 
-        <!-- Load dependencies | Google Maps API, and jQuery -->
+       <!-- Load dependencies | Google Maps API, and jQuery -->
         <script src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
         <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
 
@@ -15,9 +15,21 @@
         <script>
             $(function(){
                 // Create your Sound of Street View - make sure the path points to your JSON file
-                new SOSV('data/demo.json');
+                new SOSV('data/zadar.json');
             });
         </script>
+        
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="css/agency2.css" rel="stylesheet">
+
+        <!-- Custom Fonts -->
+        <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
         <!-- Some basic CSS to make your Sound of Street View full screen -->
         <style>
@@ -42,8 +54,42 @@
 
     <body>
 
+    <!-- Navigation -->
+       <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="http://konektor001.github.io/soundmap/index.html">Soundmap</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://konektor001.github.io/soundmap/index.html#about">Places</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://konektor001.github.io/soundmap/index.html#footer">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>        
+
         <!-- STREET VIEW PANORAMA -->
         <div id="pano"></div>
+
         <!-- CREATED BY AMPLIFON -->
         <p class="amplifon">Powered by <a href="http://amplifon.co.uk/sounds-of-street-view/">Sounds of Street View</a> by <a href="http://amplifon.co.uk">Amplifon</a></p>
 
